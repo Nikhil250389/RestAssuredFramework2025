@@ -1,0 +1,597 @@
+11:51:33.367 [main] DEBUG api.Test.UserTest - debugging.....
+11:51:33.382 [main] INFO  api.Test.UserTest - ************* Creating the User************
+11:51:36.406 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+11:51:36.425 [main] INFO  api.Test.UserTest - ************* Updating the User************
+11:51:36.957 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+11:51:37.026 [main] DEBUG api.Test.UserTest2 - debugging.....
+11:51:37.027 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+11:51:37.552 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+11:51:37.555 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+11:51:38.065 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+11:47:45.296 [main] DEBUG api.Test.UserTest - debugging.....
+11:47:45.310 [main] INFO  api.Test.UserTest - ************* Creating the User************
+11:47:49.096 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+11:47:49.118 [main] INFO  api.Test.UserTest - ************* Updating the User************
+11:47:49.888 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+11:47:50.159 [main] DEBUG api.Test.UserTest2 - debugging.....
+11:47:50.161 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+11:47:50.733 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+11:47:50.736 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+11:47:51.237 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+18:51:26.025 [main] DEBUG api.Test.AddPlace - debugging.....
+18:51:26.043 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+18:51:29.550 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+18:51:48.801 [main] DEBUG api.Test.AddPlace - debugging.....
+18:51:48.817 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+18:51:51.694 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+18:56:48.204 [main] DEBUG api.Test.AddPlace - debugging.....
+18:56:48.222 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+18:56:51.420 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:26:05.730 [main] DEBUG api.Test.AddPlace - debugging.....
+06:26:05.748 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:26:08.793 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:26:08.805 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:29:36.626 [main] DEBUG api.Test.AddPlace - debugging.....
+06:29:36.643 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:29:39.405 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:29:39.416 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:30:28.291 [main] DEBUG api.Test.AddPlace - debugging.....
+06:30:28.307 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:30:31.083 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:30:31.093 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:31:42.718 [main] DEBUG api.Test.AddPlace - debugging.....
+06:31:42.735 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:31:45.764 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:31:45.775 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:32:16.707 [main] DEBUG api.Test.AddPlace - debugging.....
+06:32:16.723 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:32:19.651 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:32:19.662 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:48:41.227 [main] DEBUG api.Test.AddPlace - debugging.....
+06:48:41.243 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:48:44.507 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:49:34.879 [main] DEBUG api.Test.AddPlace - debugging.....
+06:49:34.894 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:49:37.677 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:49:37.687 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:51:22.255 [main] DEBUG api.Test.AddPlace - debugging.....
+06:51:22.270 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:51:25.042 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:51:25.052 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:52:04.138 [main] DEBUG api.Test.AddPlace - debugging.....
+06:52:04.154 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:52:06.933 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:52:06.942 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:52:51.388 [main] DEBUG api.Test.AddPlace - debugging.....
+06:52:51.403 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:52:54.178 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:52:54.188 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:54:03.625 [main] DEBUG api.Test.AddPlace - debugging.....
+06:54:03.641 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:54:06.530 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:54:06.541 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+06:54:49.786 [main] DEBUG api.Test.AddPlace - debugging.....
+06:54:49.802 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+06:54:52.590 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+06:54:52.599 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+07:01:33.503 [main] DEBUG api.Test.AddPlace - debugging.....
+07:01:33.519 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+07:01:36.688 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+07:01:36.700 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+07:41:59.665 [main] DEBUG api.Test.AddPlace - debugging.....
+07:41:59.680 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+07:42:02.467 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+07:42:02.480 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+07:42:04.241 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+07:43:57.476 [main] DEBUG api.Test.AddPlace - debugging.....
+07:43:57.491 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+07:46:27.087 [main] DEBUG api.Test.AddPlace - debugging.....
+07:46:27.103 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+07:47:12.106 [main] DEBUG api.Test.AddPlace - debugging.....
+07:47:12.122 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+07:47:14.986 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+07:47:15.001 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+07:47:17.372 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+07:53:05.103 [main] DEBUG api.Test.AddPlace - debugging.....
+07:53:05.118 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+07:53:08.405 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+07:53:08.417 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+07:53:10.147 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:07:23.371 [main] DEBUG api.Test.AddPlace - debugging.....
+08:07:23.388 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:07:26.593 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:07:26.608 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:07:55.205 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:14:15.981 [main] DEBUG api.Test.AddPlace - debugging.....
+08:14:16.005 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:14:18.883 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:14:18.894 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:14:20.489 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:16:47.415 [main] DEBUG api.Test.AddPlace - debugging.....
+08:16:47.431 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:16:50.210 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:16:50.223 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:16:51.945 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:20:36.410 [main] DEBUG api.Test.AddPlace - debugging.....
+08:20:36.427 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:20:39.644 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:20:39.663 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:20:41.222 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:21:44.487 [main] DEBUG api.Test.AddPlace - debugging.....
+08:21:44.502 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:21:47.223 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:21:47.234 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:21:48.879 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:26:38.159 [main] DEBUG api.Test.AddPlace - debugging.....
+08:26:38.175 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:26:40.887 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:26:40.897 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:26:42.829 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:30:24.500 [main] DEBUG api.Test.AddPlace - debugging.....
+08:30:24.515 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:30:27.291 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:30:27.301 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:30:28.916 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:34:28.189 [main] DEBUG api.Test.AddPlace - debugging.....
+08:34:28.205 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:34:31.325 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:34:31.335 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:34:32.903 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:40:12.986 [main] DEBUG api.Test.AddPlace - debugging.....
+08:40:13.012 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:40:15.870 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:40:15.881 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:40:18.174 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+08:55:22.813 [main] DEBUG api.Test.AddPlace - debugging.....
+08:55:22.829 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+08:55:25.822 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+08:55:25.840 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+08:55:27.567 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+09:00:02.497 [main] DEBUG api.Test.AddPlace - debugging.....
+09:00:02.512 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+09:00:05.341 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+09:00:05.349 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+09:00:07.097 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+09:05:44.014 [main] DEBUG api.Test.AddPlace - debugging.....
+09:05:44.029 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+09:05:47.051 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+09:05:47.062 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+09:05:48.765 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+16:14:41.935 [main] DEBUG api.Test.AddPlace - debugging.....
+16:14:41.955 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:14:45.283 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:14:45.293 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:14:46.973 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+16:29:57.621 [main] DEBUG api.Test.AddPlace - debugging.....
+16:29:57.637 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:30:00.833 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:30:00.844 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:31:25.272 [main] DEBUG api.Test.AddPlace - debugging.....
+16:31:25.288 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:31:28.222 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:31:28.234 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:31:30.736 [main] INFO  api.Test.AddPlace - ************* Creating the User with pojo************
+16:36:24.605 [main] DEBUG api.Test.AddPlace - debugging.....
+16:36:24.622 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:36:27.489 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:36:27.500 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:36:30.041 [main] INFO  api.Test.AddPlace - ************* Creating the User with pojo************
+16:40:06.749 [main] DEBUG api.Test.AddPlace - debugging.....
+16:40:06.768 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:40:09.856 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:40:09.867 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:40:11.551 [main] INFO  api.Test.AddPlace - ************* Creating the User with pojo************
+16:45:40.380 [main] DEBUG api.Test.AddPlace - debugging.....
+16:45:40.396 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:45:43.215 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:45:43.228 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:45:45.179 [main] INFO  api.Test.AddPlace - ************* Creating the User with pojo************
+16:48:29.322 [main] DEBUG api.Test.AddPlace - debugging.....
+16:48:29.338 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:48:32.307 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:48:32.316 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:48:34.359 [main] INFO  api.Test.AddPlace - ************* Creating the User with pojo************
+16:59:48.705 [main] DEBUG api.Test.AddPlace - debugging.....
+16:59:48.721 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+16:59:51.967 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+16:59:51.978 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+16:59:53.786 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+20:52:25.985 [main] DEBUG api.Test.AddPlace - debugging.....
+20:52:26.003 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+20:52:29.358 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+20:52:29.370 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+20:52:31.475 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+21:20:32.194 [main] DEBUG api.Test.UserTest2 - debugging.....
+21:20:32.211 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+21:20:35.623 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+21:20:35.642 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+21:20:36.310 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+22:18:29.400 [main] DEBUG api.Test.UserTest - debugging.....
+22:18:29.415 [main] INFO  api.Test.UserTest - ************* Creating the User************
+22:18:33.053 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+22:18:33.068 [main] INFO  api.Test.UserTest - ************* Updating the User************
+22:18:33.721 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+22:18:33.799 [main] DEBUG api.Test.UserTest2 - debugging.....
+22:18:33.800 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+22:18:34.466 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+22:18:34.468 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+22:18:34.987 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+22:20:41.427 [main] DEBUG api.Test.AddPlace - debugging.....
+22:20:41.444 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+22:20:44.492 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+22:20:44.503 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+22:20:46.302 [main] INFO  api.Test.AddPlace - ************* Creating the User with pojo************
+22:21:38.130 [main] DEBUG api.Test.AddPlace - debugging.....
+22:21:38.145 [main] INFO  api.Test.AddPlace - ************* Creating the User************
+22:21:40.973 [main] INFO  api.Test.AddPlace - ************* Validating the User after creation************
+22:21:40.983 [main] INFO  api.Test.AddPlace - ************* Validating by view User info************
+22:21:42.814 [main] INFO  api.Test.AddPlace - ************* Updating the User************
+22:58:20.657 [main] DEBUG api.Test.UserTest - debugging.....
+22:58:20.678 [main] INFO  api.Test.UserTest - ************* Creating the User************
+22:58:24.307 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+22:58:24.322 [main] INFO  api.Test.UserTest - ************* Updating the User************
+22:58:25.034 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+23:23:17.842 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:40:58.319 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:40:58.392 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:41:05.701 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:44:21.101 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:44:21.153 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:44:28.551 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:52:51.471 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:52:51.533 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:52:58.962 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:59:15.040 [main] DEBUG api.Test.UserTest - debugging.....
+23:59:15.054 [main] INFO  api.Test.UserTest - ************* Creating the User************
+23:59:19.720 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+23:59:19.738 [main] INFO  api.Test.UserTest - ************* Updating the User************
+23:59:20.526 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+23:59:20.604 [main] DEBUG api.Test.UserTest2 - debugging.....
+23:59:20.605 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+23:59:21.182 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+23:59:21.184 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+23:59:21.963 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+23:59:21.991 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:59:21.993 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:59:24.926 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:22:57.515 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:22:57.552 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:23:02.404 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:23:02.411 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:31:40.724 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:31:40.758 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:31:45.029 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:31:45.036 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:34:05.986 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:34:06.023 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:34:10.498 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:34:10.507 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:36:41.037 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:36:41.076 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:36:45.398 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:36:45.413 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:42:07.659 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:42:07.692 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:42:12.560 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:42:12.571 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:45:16.841 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:45:16.880 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:45:21.531 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:45:21.547 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:50:25.740 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:50:25.777 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:50:30.322 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:50:30.332 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:51:59.247 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:51:59.284 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:52:03.908 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:52:03.919 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:57:07.970 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:57:08.004 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:57:12.865 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:57:12.875 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+14:57:49.809 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:57:49.844 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:57:54.169 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:57:54.179 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:01:28.116 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:01:28.155 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:01:32.605 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:01:32.616 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+10:22:03.538 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+10:22:03.621 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+10:22:11.118 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+10:22:11.136 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+10:22:13.706 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+10:37:38.576 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+10:37:38.609 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+10:37:43.125 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+10:37:43.136 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+10:37:45.222 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+11:32:35.821 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+11:32:35.857 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+11:32:40.579 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+11:32:40.592 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+11:32:42.474 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+11:34:53.276 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+11:34:53.317 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+11:34:58.106 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+11:34:58.115 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+11:35:00.062 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+11:51:22.065 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+11:51:22.101 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+11:51:26.753 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+11:51:26.763 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+12:01:58.200 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:01:58.238 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:02:02.992 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:02:03.001 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+12:09:56.033 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:09:56.069 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:10:00.686 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:10:00.696 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+12:10:57.416 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:10:57.456 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:11:02.119 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:11:02.131 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+12:20:52.362 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:20:52.404 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:20:56.942 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:20:56.952 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+12:24:44.873 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:24:44.909 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:24:49.794 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:24:49.805 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+13:13:17.841 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:13:17.875 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:13:22.265 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:13:22.274 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+13:39:55.360 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:39:55.395 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:40:00.210 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:40:00.219 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+13:42:53.502 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:42:53.540 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:42:57.935 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:42:57.950 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+13:58:24.688 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:58:24.724 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:58:29.167 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:58:29.175 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+13:58:30.862 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:37:14.810 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:37:14.853 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:37:19.538 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:37:19.547 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:37:21.235 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:38:03.662 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:38:03.697 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:38:08.489 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:38:08.502 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:38:10.239 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:39:11.139 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:39:11.177 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:39:16.075 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:39:16.086 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:39:18.268 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:39:20.009 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:43:31.700 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:43:31.736 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:43:36.025 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:43:36.035 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:43:37.642 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:47:53.811 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:47:53.884 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:48:00.686 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:48:00.709 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:48:03.051 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:52:01.620 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:52:01.696 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:52:08.946 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:52:08.960 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:52:11.632 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:55:05.088 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:55:05.140 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:55:12.119 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:55:12.134 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:55:14.533 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:56:20.867 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:56:20.941 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:56:26.984 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:56:26.993 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:56:28.859 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+15:57:10.957 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+15:57:10.994 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+15:57:15.470 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+15:57:15.479 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+15:57:17.425 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:03:41.129 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:03:41.162 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:03:45.886 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:03:45.898 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:03:47.686 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:06:16.884 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:06:16.922 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:06:22.290 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:06:22.299 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:06:24.203 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:07:54.164 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:07:54.200 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:07:58.697 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:07:58.710 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:08:00.649 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:08:52.381 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:08:52.417 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:08:57.174 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:08:57.183 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:08:59.222 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:09:00.846 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:12:11.596 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:12:11.634 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:12:16.194 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:12:16.203 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:12:18.079 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:12:19.825 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:39:21.709 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:39:21.746 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:39:25.927 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:39:25.940 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:39:27.533 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:39:28.972 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+16:41:32.405 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:41:32.438 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:41:37.045 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:41:37.054 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:41:38.933 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:41:40.592 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+16:45:14.945 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:45:14.989 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:45:19.953 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:45:19.971 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:45:21.853 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:45:23.544 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+16:49:15.796 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:49:15.833 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:49:20.638 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:49:20.647 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:49:22.412 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:49:24.128 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+16:56:47.583 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+16:56:47.616 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+16:56:51.836 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+16:56:51.847 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+16:56:53.452 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+16:56:54.794 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+21:41:51.090 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+21:41:51.133 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+21:41:55.737 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+21:41:55.746 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+21:41:57.572 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+21:41:59.315 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+21:48:26.530 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+21:48:26.585 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+21:48:31.115 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+21:48:31.132 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+21:48:33.124 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+21:48:34.849 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+21:50:15.485 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+21:50:15.520 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+21:50:20.115 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+21:50:20.124 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+21:50:21.976 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+21:50:23.799 [main] INFO  api.Test.Contacts_CRUD -  Edit the User Contact Details
+22:02:59.235 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:02:59.270 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:03:03.859 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:03:03.871 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:03:05.598 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:03:06.958 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:19:28.149 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:19:28.210 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:19:34.749 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:19:34.764 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:19:36.778 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:19:38.413 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:21:42.046 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:21:42.106 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:21:49.033 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:21:49.057 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:21:51.355 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:21:53.452 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:21:55.444 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:38:51.042 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:38:51.101 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:38:58.565 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:38:58.615 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:39:00.859 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:39:02.560 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:39:04.552 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:39:06.214 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:39:08.267 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+22:41:50.407 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:41:50.484 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:41:57.478 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:41:57.499 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:41:59.760 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:42:01.644 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:42:03.638 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:42:05.406 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:43:36.253 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:43:36.285 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:43:40.731 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:43:40.746 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:43:42.675 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:43:44.421 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:43:46.205 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:43:47.930 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:43:49.606 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+22:45:29.237 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:45:29.272 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:45:33.916 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:45:33.926 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:45:35.964 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:45:37.834 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:45:39.650 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:45:41.350 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:45:43.369 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+22:50:22.976 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:50:23.011 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:50:27.522 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:50:27.562 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:50:29.431 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:50:31.074 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:50:32.771 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:50:34.416 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:50:36.149 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+22:54:14.166 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:54:14.200 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:54:18.431 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:54:18.475 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:54:20.290 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:54:21.890 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:54:23.674 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:54:25.269 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:54:26.940 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+22:58:58.449 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+22:58:58.483 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+22:59:03.022 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+22:59:03.054 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+22:59:05.256 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+22:59:06.975 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+22:59:08.729 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+22:59:10.413 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+22:59:12.015 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+23:02:58.382 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:02:58.419 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:03:02.964 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:03:03.004 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+23:03:04.865 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+23:03:06.787 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+23:03:08.747 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+23:03:11.753 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+23:03:13.596 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+23:04:23.525 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:04:23.562 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:04:28.591 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:04:28.627 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+23:04:30.524 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+23:04:32.271 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+23:04:34.041 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+23:04:35.752 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+23:04:37.595 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+23:06:28.463 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:06:28.498 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:06:33.085 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:06:33.121 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+23:06:34.998 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+23:06:36.779 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+23:06:38.477 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
+23:06:40.076 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+23:06:41.927 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+23:09:23.176 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+23:09:23.209 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+23:09:27.457 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+23:09:27.494 [main] INFO  api.Test.Contacts_CRUD -  Creating the User
+23:09:29.409 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+23:09:31.081 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+23:09:32.529 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after update
