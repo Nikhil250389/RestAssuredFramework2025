@@ -165,7 +165,7 @@ public class Contacts_CRUD {
 	@Test(priority = 4)
 
 	public void viewContactAfterUpdate() {
-		logger.info(" Viwing the User Contact Details after update");
+		logger.info(" Viewing the User Contact Details after update");
 
 		Response responce = Contact_CRUD.viewContact(token);
 		responce.then().log().all().extract().asString();
