@@ -5,8 +5,8 @@
     <classes>
       <class name="api.Test.Contacts_CRUD">
         <methods>
-          <include name="viewContactAfterUpdate"/>
           <include name="setUpData"/>
+          <include name="viewContacte"/>
         </methods>
       </class> <!-- api.Test.Contacts_CRUD -->
     </classes>

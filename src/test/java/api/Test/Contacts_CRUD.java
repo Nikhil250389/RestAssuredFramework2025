@@ -59,7 +59,7 @@ public class Contacts_CRUD {
 	@Test(priority = 1)
 
 	public void createUser() {
-		logger.info(" Creating the User");
+		logger.info(" Creating the User Contact");
 		userCreateContact = new CreateContacts();
 		userCreateContact.setBirthdate("1986-10-08");
 		userCreateContact.setCity("GZB");
@@ -212,4 +212,5 @@ public class Contacts_CRUD {
 		Assert.assertEquals(responce.getStatusCode(), 200);
 
 	}
+
 }
