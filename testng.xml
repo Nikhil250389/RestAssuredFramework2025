@@ -5,11 +5,12 @@
 
 <listeners>
 <listener class-name="api.Utilities.ExtentReportManager"/>
+<listener class-name="listeners.Listener"/>
+<listener class-name="listeners.AnnotationTransformer" />
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="api.Test.UserTest"/>
-         <class name="api.Test.UserTest2"/>
+     
          <class name="api.Test.Contacts_CRUD"/>
     </classes>
   </test> <!-- Test -->

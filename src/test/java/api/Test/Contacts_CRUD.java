@@ -6,10 +6,9 @@ import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-//import org.json.JSONObject;
-import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 import com.github.javafaker.Faker;
 
@@ -29,6 +28,7 @@ public class Contacts_CRUD {
 	static String token;
 	CreateContacts userCreateContact;
 	String firstName;
+	static SoftAssert softassert = new SoftAssert();
 
 	@BeforeTest
 	public static void setUpData() {
@@ -50,10 +50,11 @@ public class Contacts_CRUD {
 		token = responce.jsonPath().get("token");
 
 		logger.info(" Validating the User after login");
-		Assert.assertEquals(responce.getStatusCode(), 200);
-		Assert.assertEquals(firstName, Routes.firstName);
-		Assert.assertEquals(lastName, Routes.lastName);
-		Assert.assertEquals(email, Routes.email);
+		softassert.assertEquals(responce.getStatusCode(), 200);
+		softassert.assertEquals(firstName, Routes.firstName);
+		softassert.assertEquals(lastName, Routes.lastName);
+		softassert.assertEquals(email, Routes.email);
+		softassert.assertAll();
 	}
 
 	@Test(priority = 1)
@@ -85,14 +86,15 @@ public class Contacts_CRUD {
 		String email = responce.jsonPath().get("email");
 		String phoneNumber = responce.jsonPath().get("phone");
 
-		Assert.assertEquals(responce.getStatusCode(), 201);
-		Assert.assertEquals(firstName, userCreateContact.getFirstName());
-		Assert.assertEquals(birthdate, userCreateContact.getBirthdate());
-		Assert.assertEquals(email, userCreateContact.getEmail());
-		Assert.assertEquals(phoneNumber, userCreateContact.getPhone());
+		softassert.assertEquals(responce.getStatusCode(), 201);
+		softassert.assertEquals(firstName, userCreateContact.getFirstName());
+		softassert.assertEquals(birthdate, userCreateContact.getBirthdate());
+		softassert.assertEquals(email, userCreateContact.getEmail());
+		softassert.assertEquals(phoneNumber, userCreateContact.getPhone());
+		softassert.assertAll();
 	}
 
-	@Test(priority = 2)
+	@Test(priority = 2, dependsOnMethods = "createUser", enabled = false)
 
 	public void viewContact() {
 		logger.info(" Vewing  the User Contact Details");
@@ -118,15 +120,16 @@ public class Contacts_CRUD {
 		// System.out.println("ID: " + userContacts.get("_id"));
 		// System.out.println("Name: " + userContacts.get("firstName"));
 
-		Assert.assertEquals(responce.getStatusCode(), 200);
-		Assert.assertEquals(status, true);
+		softassert.assertEquals(responce.getStatusCode(), 200);
+		softassert.assertEquals(status, true);
+		softassert.assertAll();
 		// String userFirstName = (String) userContacts.get("firstName");
 		/// System.out.println("Name345: " + userFirstName);
 		// System.out.println("ID: " + userContacts.get("_id"));
 		// System.out.println("Name: " + userContacts.get("firstName"));
 	}
 
-	@Test(priority = 3)
+	@Test(priority = 3, dependsOnMethods = "createUser")
 
 	public void editContactDeatils() {
 		logger.info("Edit the User Contact Details");
@@ -155,14 +158,15 @@ public class Contacts_CRUD {
 		String email = responce.jsonPath().get("email");
 		String phoneNumber = responce.jsonPath().get("phone");
 
-		Assert.assertEquals(responce.getStatusCode(), 200);
-		Assert.assertEquals(firstName, editContact.getFirstName());
+		softassert.assertEquals(responce.getStatusCode(), 200);
+		softassert.assertEquals(firstName, editContact.getFirstName());
 		// Assert.assertEquals(birthdate, editContact.getBirthdate());
-		Assert.assertEquals(email, editContact.getEmail());
-		Assert.assertEquals(phoneNumber, editContact.getPhone());
+		softassert.assertEquals(email, editContact.getEmail());
+		softassert.assertEquals(phoneNumber, editContact.getPhone());
+		softassert.assertAll();
 	}
 
-	@Test(priority = 4)
+	@Test(priority = 4, dependsOnMethods = { "createUser", "editContactDeatils" }, alwaysRun = true)
 
 	public void viewContactAfterUpdate() {
 		logger.info(" Viewing the User Contact Details after update");
@@ -183,20 +187,20 @@ public class Contacts_CRUD {
 			}
 
 		}
-		Assert.assertEquals(responce.getStatusCode(), 200);
-		Assert.assertEquals(status, true);
-
+		softassert.assertEquals(responce.getStatusCode(), 200);
+		softassert.assertEquals(status, true);
+		softassert.assertAll();
 	}
 
-	@Test(priority = 5)
+	@Test(priority = 5, dependsOnMethods = { "createUser", "editContactDeatils", "viewContactAfterUpdate" })
 
 	public void deleteContact() {
 		logger.info(" Deleting the User Contact deatils");
 
 		Response responce = Contact_CRUD.deleteContact(token, userid);
 		responce.then().log().all().extract().asString();
-		Assert.assertEquals(responce.getStatusCode(), 200);
-
+		softassert.assertEquals(responce.getStatusCode(), 200);
+		softassert.assertAll();
 	}
 
 	@Test(priority = 6)
@@ -209,8 +213,8 @@ public class Contacts_CRUD {
 
 		System.out.println("Deleted the user Contact details");
 
-		Assert.assertEquals(responce.getStatusCode(), 200);
-
+		softassert.assertEquals(responce.getStatusCode(), 206);
+		softassert.assertAll();
 	}
 
 }

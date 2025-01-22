@@ -3,15 +3,17 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="api.Utilities.ExtentReportManager"/>
+    <listener class-name="listeners.Listener"/>
+    <listener class-name="listeners.AnnotationTransformer"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="api.Test.UserTest">
+      <class name="api.Test.Contacts_CRUD">
         <methods>
-          <include name="getUser"/>
           <include name="setUpData"/>
+          <include name="viewContactAfterDelete"/>
         </methods>
-      </class> <!-- api.Test.UserTest -->
+      </class> <!-- api.Test.Contacts_CRUD -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

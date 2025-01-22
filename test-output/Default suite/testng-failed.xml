@@ -5,8 +5,12 @@
     <classes>
       <class name="api.Test.Contacts_CRUD">
         <methods>
+          <include name="editContactDeatils"/>
+          <include name="viewContactAfterUpdate"/>
           <include name="setUpData"/>
-          <include name="viewContacte"/>
+          <include name="createUser"/>
+          <include name="deleteContact"/>
+          <include name="viewContactAfterDelete"/>
         </methods>
       </class> <!-- api.Test.Contacts_CRUD -->
     </classes>

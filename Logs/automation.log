@@ -74,3 +74,211 @@
 18:47:45.348 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
 18:47:46.706 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
 18:47:48.251 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+08:12:00.761 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+08:12:00.800 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+08:12:06.052 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+08:12:06.091 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+08:12:08.026 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+08:12:09.688 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+08:12:11.479 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+08:12:13.026 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+08:12:14.905 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+08:12:56.763 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+08:12:56.797 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+08:13:01.530 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+08:13:01.572 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+08:13:03.601 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+08:13:05.367 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+08:13:07.336 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+08:13:53.006 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+08:13:53.046 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+08:13:57.827 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+08:13:57.862 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+08:13:59.791 [main] INFO  api.Test.Contacts_CRUD -  Vewing  the User Contact Details
+08:14:01.524 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+08:14:03.287 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+08:14:05.021 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+08:16:50.793 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+08:16:50.832 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+08:16:55.453 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+08:16:55.502 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+08:16:57.333 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+08:16:59.147 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+08:17:00.863 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+08:17:32.806 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+08:17:32.840 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+08:17:37.548 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+08:17:37.600 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+08:17:39.653 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+08:17:41.388 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+08:17:43.378 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+08:17:45.112 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+09:08:38.878 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+09:08:38.919 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+09:08:43.852 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+09:08:43.893 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+09:08:45.664 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+09:08:47.307 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+09:08:48.656 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+09:08:50.226 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+09:09:04.987 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+09:09:05.021 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+09:09:09.340 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+09:09:09.391 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+09:09:11.187 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+09:09:12.888 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+09:09:14.619 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+09:10:18.186 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+09:10:18.219 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+09:10:22.858 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+09:10:22.904 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+09:10:24.743 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+09:10:26.653 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+09:10:28.374 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+09:10:30.109 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+12:24:50.567 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:24:50.599 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:24:55.224 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:24:55.382 [main] DEBUG api.Test.UserTest - debugging.....
+12:24:55.394 [main] INFO  api.Test.UserTest - ************* Creating the User************
+12:24:56.134 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+12:24:56.158 [main] INFO  api.Test.UserTest - ************* Updating the User************
+12:24:56.912 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+12:24:56.978 [main] DEBUG api.Test.UserTest2 - debugging.....
+12:24:56.980 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+12:24:57.765 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+12:24:57.767 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+12:24:58.497 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+12:24:58.518 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+12:25:00.842 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+12:25:02.599 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+12:25:04.654 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+12:25:06.532 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+12:47:41.400 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:47:41.450 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:47:46.991 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:47:47.045 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+12:47:48.998 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+12:47:50.699 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+12:47:52.722 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+12:47:54.448 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+12:48:15.053 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:48:15.092 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:48:20.910 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:48:21.125 [main] DEBUG api.Test.UserTest - debugging.....
+12:48:21.148 [main] INFO  api.Test.UserTest - ************* Creating the User************
+12:48:22.274 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+12:48:22.298 [main] INFO  api.Test.UserTest - ************* Updating the User************
+12:48:22.944 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+12:48:23.006 [main] DEBUG api.Test.UserTest2 - debugging.....
+12:48:23.008 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+12:48:23.576 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+12:48:23.580 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+12:48:24.172 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+12:48:24.198 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+12:48:25.932 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+12:48:27.542 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+12:48:29.485 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+12:48:31.234 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+12:51:18.755 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+12:51:18.799 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+12:51:24.590 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+12:51:24.821 [main] DEBUG api.Test.UserTest - debugging.....
+12:51:24.842 [main] INFO  api.Test.UserTest - ************* Creating the User************
+12:51:25.961 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+12:51:25.995 [main] INFO  api.Test.UserTest - ************* Updating the User************
+12:51:26.663 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+12:51:26.773 [main] DEBUG api.Test.UserTest2 - debugging.....
+12:51:26.776 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+12:51:27.338 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+12:51:27.342 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+12:51:27.919 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+12:51:27.949 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+12:51:29.603 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+12:51:31.015 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+12:51:32.634 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+12:51:34.266 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+13:25:54.002 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:25:54.038 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:25:58.512 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:25:58.667 [main] DEBUG api.Test.UserTest - debugging.....
+13:25:58.687 [main] INFO  api.Test.UserTest - ************* Creating the User************
+13:25:59.732 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+13:25:59.753 [main] INFO  api.Test.UserTest - ************* Updating the User************
+13:26:00.366 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+13:26:00.420 [main] DEBUG api.Test.UserTest2 - debugging.....
+13:26:00.422 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+13:26:01.061 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+13:26:01.065 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+13:26:01.555 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+13:26:01.577 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+13:26:03.375 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+13:26:05.270 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+13:46:59.797 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:46:59.831 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:47:04.447 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:47:04.621 [main] DEBUG api.Test.UserTest - debugging.....
+13:47:04.643 [main] INFO  api.Test.UserTest - ************* Creating the User************
+13:47:05.684 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+13:47:05.701 [main] INFO  api.Test.UserTest - ************* Updating the User************
+13:47:06.351 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+13:47:06.406 [main] DEBUG api.Test.UserTest2 - debugging.....
+13:47:06.408 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+13:47:07.076 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+13:47:07.081 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+13:47:07.585 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+13:47:07.616 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+13:47:09.318 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+13:47:11.267 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+13:50:18.008 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:50:18.046 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:50:22.395 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:50:22.560 [main] DEBUG api.Test.UserTest - debugging.....
+13:50:22.580 [main] INFO  api.Test.UserTest - ************* Creating the User************
+13:50:23.464 [main] INFO  api.Test.UserTest - ************* Validating the User after creation************
+13:50:23.486 [main] INFO  api.Test.UserTest - ************* Updating the User************
+13:50:24.206 [main] INFO  api.Test.UserTest - ************* Validating the user after update user info************
+13:50:24.272 [main] DEBUG api.Test.UserTest2 - debugging.....
+13:50:24.274 [main] INFO  api.Test.UserTest2 - ************* Creating the User************
+13:50:24.853 [main] INFO  api.Test.UserTest2 - ************* Validating the User after creation************
+13:50:24.856 [main] INFO  api.Test.UserTest2 - ************* Updating the User************
+13:50:25.642 [main] INFO  api.Test.UserTest2 - ************* Validating the user after update user info************
+13:50:25.669 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+13:50:27.183 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+13:50:28.839 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+13:51:22.854 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:51:22.888 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:51:27.477 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:51:27.513 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+13:51:29.389 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+13:51:31.604 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+13:52:24.145 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+13:52:24.179 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+13:52:28.279 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+13:52:28.320 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+13:52:29.975 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+13:52:31.473 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+13:52:33.208 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+13:52:34.805 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:09:30.197 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:09:30.231 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:09:34.930 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:09:34.976 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+14:09:36.954 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+14:09:39.146 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+14:09:41.179 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+14:09:43.237 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:09:45.223 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:09:47.260 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:09:49.154 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:44:53.969 [main] DEBUG api.Test.Contacts_CRUD - debugging.....
+14:44:54.006 [main] INFO  api.Test.Contacts_CRUD -  Login with valid User
+14:45:09.685 [main] INFO  api.Test.Contacts_CRUD -  Validating the User after login
+14:45:09.732 [main] INFO  api.Test.Contacts_CRUD -  Creating the User Contact
+14:45:11.665 [main] INFO  api.Test.Contacts_CRUD - Edit the User Contact Details
+14:45:13.419 [main] INFO  api.Test.Contacts_CRUD -  Viewing the User Contact Details after update
+14:45:15.441 [main] INFO  api.Test.Contacts_CRUD -  Deleting the User Contact deatils
+14:45:17.280 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:45:19.285 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:45:21.229 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
+14:45:23.088 [main] INFO  api.Test.Contacts_CRUD -  Viwing the User Contact Details after delete
